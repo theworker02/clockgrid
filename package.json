@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/clockgrid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clock numeric grid values, ranges, and human-readable units.",
+  "bin": {
+    "clockgrid": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/clockgrid.git"
+  },
+  "homepage": "https://theworker02.github.io/clockgrid/",
+  "keywords": [
+    "clock",
+    "grid",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
